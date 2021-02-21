@@ -1,17 +1,9 @@
-
 import React, { useState, useEffect } from "react";
-
 
 function App() {
   const [wakeup, setwakeup] = useState();
   const [sleep, setsleep] = useState();
   const [TOD, setTOD] = useState("AM")
-
-  /*useEffect(() => {
-    if (wakeup != '') {
-    }
-
-  }, [sleep, wakeup])*/
 
   function update(e) {
     /*var newTime = new Date();*/
@@ -65,11 +57,11 @@ function App() {
   }
 }
 
-/*<button type="button" onClick={update}>Submit</button>
-
-
-      */
-
-
-
 export default App;
+
+/*useEffect(() => {
+  if (wakeup != '') {
+  }
+
+}, [sleep, wakeup])*/
+
