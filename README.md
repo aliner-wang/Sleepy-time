@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Project Summary
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This was my attempt to learn react and familiarize myself with frontend technologies. The app is meant to calculate one's bedtime in order to get a full 8 hours of sleep. Enjoy. 
 
 ## Available Scripts
 
